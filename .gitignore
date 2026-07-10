@@ -1,0 +1,110 @@
+# Node dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented code coverage downloads
+lib-cov
+coverage
+*.lcov
+
+# Grunt folders
+.grunt
+
+# Bower dependency folders
+bower_components
+
+# node-gyp compilation folder
+build/Release
+
+# Dependency directories
+jspm_packages/
+
+# Snowpack dependency directory
+web_modules/
+
+# Next.js build files
+.next/
+out/
+
+# Nuxt.js build files
+.nuxt/
+dist/
+
+# Gatsby files
+.cache/
+public/
+
+# vuepress build files
+.vuepress/dist
+
+# Serverless Webpack directories
+.webpack/
+
+# Bundler cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional npm cache directory
+.npm
+
+# Output directory of npm pack
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Frontend build outputs
+dist/
+dist-ssr/
+*.local
+
+# Cypress downloads
+cypress/videos/
+cypress/screenshots/
+
+# Temp folders
+.temp/
+.tmp/
+temp/
+tmp/
