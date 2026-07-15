@@ -3,6 +3,8 @@
 ### **Developer: RUPAL AGARWAL**
 ### **Batch: AI Batch 5**
 
+### 🌐 **Live Website Link:** [https://ranker-ai-ten.vercel.app/](https://ranker-ai-ten.vercel.app/)
+
 ---
 
 The **Smart Resume Screening & Candidate Ranking Tool** is a production-grade, full-stack B2B web application designed for recruiters and HR managers to automate candidate screening. Powered by a **MERN Stack** portal and a specialized **Python NLP Microservice** (NLTK & Scikit-learn), the tool processes resumes in bulk, parses text, extracts key skills, and ranks candidates based on TF-IDF Cosine Similarity.
