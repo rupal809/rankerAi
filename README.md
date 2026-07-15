@@ -187,3 +187,23 @@ Make sure you have [Node.js](https://nodejs.org/) (v16+), [Python](https://www.p
 
 ---
 
+## 📸 Screen Walkthrough & Visuals
+
+Here is a visual walkthrough of the **Smart Resume Screening & Candidate Ranking Tool** in action:
+
+### 1. Welcome Landing Page
+![Landing Page](./frontend/public/screenshots/screenshot_1.png)
+
+### 2. Recruiter Panel & Job Setup
+![Screener Setup](./frontend/public/screenshots/screenshot_2.png)
+
+### 3. Resume Analyzer 
+![CATS friendly score](./frontend/public/screenshots/screenshot_3.png)
+
+### 4.Carrer roadmap
+![Guide](./frontend/public/screenshots/screenshot_4.png)
+
+### 5.MOCK INTERVIEW
+![Mock Interview](./frontend/public/screenshots/screenshot_5.png)
+
+
