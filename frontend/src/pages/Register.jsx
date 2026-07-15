@@ -52,9 +52,9 @@ export const Register = () => {
             <div className="p-2 rounded-xl bg-gradient-to-br from-primary-500 to-accent-violet text-white shadow-lg shadow-primary-500/20 group-hover:scale-105 transition-transform">
               <Brain size={24} />
             </div>
-            <span className="font-extrabold text-xl text-slate-100 tracking-wide">CareerSphere</span>
+            <span className="font-extrabold text-xl text-slate-100 tracking-wide">RankerAI</span>
           </Link>
-          <p className="text-slate-400 text-xs font-medium uppercase tracking-widest">Create your coaching profile</p>
+          <p className="text-slate-400 text-xs font-medium uppercase tracking-widest">Create your Recruiter Account</p>
         </div>
 
         {/* Glass Card Form */}
