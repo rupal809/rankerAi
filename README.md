@@ -200,12 +200,10 @@ Here is a visual walkthrough of the **Smart Resume Screening & Candidate Ranking
 ![Screener Setup](./frontend/public/screenshots/screenshot_2.png)
 
 ### 3. Resume Analyzer 
-![CATS friendly score](./frontend/public/screenshots/screenshot_3.png)
+![ATS friendly score](./frontend/public/screenshots/screenshot_3.png)
 
 ### 4.Carrer roadmap
 ![Guide](./frontend/public/screenshots/screenshot_4.png)
 
 ### 5.MOCK INTERVIEW
 ![Mock Interview](./frontend/public/screenshots/screenshot_5.png)
-
-
