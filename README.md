@@ -261,7 +261,7 @@ The system converts unstructured resume documents into structured analytical res
 
 ## 📂 Project Structure
 
-```text
+
 smart-resume-screening/
 │
 ├── frontend/                         # React frontend application
