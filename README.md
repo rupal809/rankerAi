@@ -257,3 +257,32 @@ The system converts unstructured resume documents into structured analytical res
                                    │ TF-IDF              │
                                    │ Cosine Similarity   │
                                    └─────────────────────┘
+## Project Structure
+smart-resume-screening/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── App.jsx
+│   │
+│   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+│
+├── python-backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── ...
+│
+├── verify_project.js
+├── .gitignore
+└── README.md
