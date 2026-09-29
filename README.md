@@ -259,36 +259,34 @@ The system converts unstructured resume documents into structured analytical res
                                    └─────────────────────┘
 
 
----
+## 📂 Project Structure
 
-
-
-## *Project Structure*
+```text
 smart-resume-screening/
 │
-├── frontend/
+├── frontend/                         # React frontend application
 │   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── App.jsx
+│   │   ├── components/               # Reusable UI components
+│   │   ├── pages/                    # Application pages
+│   │   ├── services/                 # API/service handlers
+│   │   └── App.jsx                   # Main React application
 │   │
 │   ├── package.json
 │   └── ...
 │
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
+├── backend/                          # Node.js & Express backend
+│   ├── config/                       # Database/configuration
+│   ├── controllers/                  # Request/business logic
+│   ├── middleware/                   # Authentication & error handling
+│   ├── models/                       # MongoDB/Mongoose schemas
+│   ├── routes/                       # API routes
+│   └── server.js                     # Backend entry point
 │
-├── python-backend/
-│   ├── app.py
-│   ├── requirements.txt
+├── python-backend/                   # Python NLP microservice
+│   ├── app.py                        # Flask application
+│   ├── requirements.txt              # Python dependencies
 │   └── ...
 │
-├── verify_project.js
-├── .gitignore
-└── README.md
+├── verify_project.js                 # Project verification script
+├── .gitignore                        # Ignored files & folders
+└── README.md                         # Project documentation
